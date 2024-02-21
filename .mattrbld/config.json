@@ -1,0 +1,35 @@
+{
+  "autoquotes": null,
+  "brandColors": [],
+  "corsProxy": "/corsprox",
+  "name": "blog",
+  "sidebar": [
+    {
+      "icon": "chevron-right",
+      "label": "Blog",
+      "target": {
+        "name": "Project.Collection",
+        "params": {
+          "path": "/.mattrbld/collections/Blog-Posts.json"
+        }
+      }
+    }
+  ],
+  "slugifyOptions": null,
+  "customRoles": [],
+  "draftsDir": null,
+  "previewUrl": null,
+  "languages": [],
+  "media": {
+    "advanced": false,
+    "customFields": null,
+    "dir": "/Content/Uploads",
+    "maxSize": null,
+    "outputPath": null,
+    "permissions": {
+      "everybody": [
+        "everything"
+      ]
+    }
+  }
+}
